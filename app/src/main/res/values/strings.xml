@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calc</string>
+
+    <string name="OneTxt">1</string>
+    <string name="TwoTxt">2</string>
+    <string name="ThreeTxt">3</string>
+    <string name="FourTxt">4</string>
+    <string name="FiveTxt">5</string>
+    <string name="SixTxt">6</string>
+    <string name="SevenTxt">7</string>
+    <string name="EightTxt">8</string>
+    <string name="NineTxt">9</string>
+    <string name="ZeroTxt">0</string>
+
+
+    <string name="ClearTxt">C</string>
+    <string name="ParenthesesOpenTxt">(</string>
+    <string name="ParenthesesCloseTxt">)</string>
+    <string name="DivisionTxt">÷</string>
+    <string name="SubTxt">-</string>
+    <string name="AddTxt">+</string>
+    <string name="MultiplyTxt">×</string>
+    <string name="DecimalTxt">.</string>
+    <string name="EqualTxt">=</string>
+    <string name="ModTxt">%</string>
+    <string name="backspace"> </string>
+    <string name="enter_an_expression">Enter an Expression</string>
+
+
+</resources>
